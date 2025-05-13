@@ -1,1 +1,1 @@
-# .github
+# sano - system agonistic organizer
